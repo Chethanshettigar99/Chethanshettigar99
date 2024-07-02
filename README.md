@@ -7,7 +7,7 @@
 -dancing,watching sci-fi movies series,travelling.
 
 ##  🌀Get in Touch
-Connect with me on ![LinkedIn](https://www.linkedin.com/in/chethan-shettigar-574b06267/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/chethan-shettigar-574b06267/)
 
 <!---
 Chethanshettigar99/Chethanshettigar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
