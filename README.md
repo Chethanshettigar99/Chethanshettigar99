@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Chethan shettigar
 - 🌱 Student in SMVITM
-- 👀 I’m interested in WEB dev,AI,DS,ML
+- 👀 I’m interested in WEB dev,Software dev,AI,DS,ML
 - ✌️I'm passionate about exploring new technologies and solving real-world problems 😊
 
 ### Hobbies and interests
